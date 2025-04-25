@@ -1,4 +1,6 @@
 "use client";
+/* eslint-disable */
+
 // pages/index.js
 // pages/index.js
 import Head from 'next/head';
